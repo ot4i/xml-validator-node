@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: com.ibm.mq.supportpacs.XMLValidator Plug-in
+Bundle-SymbolicName: com.ibm.mq.supportpacs.XMLValidator; singleton:=tru
+ e
+Bundle-Version: 12.0.11.0
+Bundle-Vendor: com.ibm.mq.supportpacs.XMLValidator Provider
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
+Require-Bundle: com.ibm.etools.mft.api,com.ibm.etools.mft.util.ui,com.ib
+ m.etools.mft.config
+

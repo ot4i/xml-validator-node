@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<palette:CategoryCmp xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:palette="http://www.ibm.com/wbi/2005/eflow_palette" xmlns:utility="http://www.ibm.com/wbi/2005/eflow_utility" xmi:id="XML Validator">
+  <categoryLabel xsi:type="utility:TranslatableString" key="category.name" bundleName="palette" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+  <cmpGroups xsi:type="palette:GroupCmp">
+    <cmpEntries xsi:type="palette:ToolEntry" xmi:id="XMLValidator" icon16Name="platform:/plugin/com.ibm.mq.supportpacs.XMLValidator/icons/full/clcl16/XMLValidator.gif" icon32Name="platform:/plugin/com.ibm.mq.supportpacs.XMLValidator/icons/full/obj32/XMLValidator.gif" toolClassName="com.ibm.etools.mft.flow.editor.MFTNodeCreationTool" toolClassPluginId="com.ibm.etools.mft.flow" nodeURI="XMLValidator.msgnode">
+      <entryLabel xsi:type="utility:TranslatableString" key="entry.XMLValidator" bundleName="palette" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+      <entryShortDescription xsi:type="utility:TranslatableString" key="tooltip.XMLValidator" bundleName="palette" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+    </cmpEntries>
+  </cmpGroups>
+</palette:CategoryCmp>

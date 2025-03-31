@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ecore:EPackage xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:eflow="http://www.ibm.com/wbi/2005/eflow" xmlns:utility="http://www.ibm.com/wbi/2005/eflow_utility" nsURI="XMLValidator.msgnode" nsPrefix="XMLValidator.msgnode">
+  <eClassifiers xmi:type="eflow:FCMComposite" name="FCMComposite_1">
+    <eSuperTypes href="http://www.ibm.com/wbi/2005/eflow#//FCMBlock"/>
+    <eStructuralFeatures xmi:type="ecore:EAttribute" xmi:id="Property.schemaLocation" name="schemaLocation">
+      <eType xmi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xmi:type="ecore:EAttribute" xmi:id="Property.noNameSpaceSchemaLocation" name="noNameSpaceSchemaLocation">
+      <eType xmi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xmi:type="ecore:EAttribute" xmi:id="Property.ignoreWarnings" name="ignoreWarnings" defaultValueLiteral="false">
+      <eType xmi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xmi:type="ecore:EAttribute" xmi:id="Property.fullSchemaCheck" name="fullSchemaCheck" defaultValueLiteral="false">
+      <eType xmi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xmi:type="ecore:EAttribute" xmi:id="Property.enableLogging" name="enableLogging" defaultValueLiteral="false">
+      <eType xmi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EBoolean"/>
+    </eStructuralFeatures>
+    <eStructuralFeatures xmi:type="ecore:EAttribute" xmi:id="Property.logFileName" name="logFileName">
+      <eType xmi:type="ecore:EDataType" href="http://www.eclipse.org/emf/2002/Ecore#//EString"/>
+    </eStructuralFeatures>
+    <translation xmi:type="utility:TranslatableString" key="XMLValidator" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+    <colorGraphic16 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/com.ibm.mq.supportpacs.XMLValidator/icons/full/obj16/XMLValidator.gif"/>
+    <colorGraphic32 xmi:type="utility:GIFFileGraphic" resourceName="platform:/plugin/com.ibm.mq.supportpacs.XMLValidator/icons/full/obj30/XMLValidator.gif"/>
+    <composition>
+      <nodes xmi:type="eflow:FCMSource" xmi:id="InTerminal.In" location="100,20">
+        <translation xmi:type="utility:TranslatableString" key="InTerminal.In" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+      </nodes>
+      <nodes xmi:type="eflow:FCMSink" xmi:id="OutTerminal.Invalid" location="200,40">
+        <translation xmi:type="utility:TranslatableString" key="OutTerminal.Invalid" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+      </nodes>
+      <nodes xmi:type="eflow:FCMSink" xmi:id="OutTerminal.Out" location="300,60">
+        <translation xmi:type="utility:TranslatableString" key="OutTerminal.Out" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+      </nodes>
+    </composition>
+    <propertyOrganizer>
+      <propertyDescriptor groupName="Group.Basic" describedAttribute="Property.schemaLocation">
+        <propertyName xmi:type="utility:TranslatableString" key="Property.schemaLocation" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+        <propertyDescriptor groupName="Group.Basic" describedAttribute="Property.noNameSpaceSchemaLocation">
+          <propertyName xmi:type="utility:TranslatableString" key="Property.noNameSpaceSchemaLocation" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+          <propertyDescriptor groupName="Group.Basic" describedAttribute="Property.ignoreWarnings">
+            <propertyName xmi:type="utility:TranslatableString" key="Property.ignoreWarnings" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+            <propertyDescriptor groupName="Group.Basic" describedAttribute="Property.fullSchemaCheck">
+              <propertyName xmi:type="utility:TranslatableString" key="Property.fullSchemaCheck" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+              <propertyDescriptor groupName="Group.Advanced" describedAttribute="Property.enableLogging">
+                <propertyName xmi:type="utility:TranslatableString" key="Property.enableLogging" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+                <propertyDescriptor groupName="Group.Advanced" describedAttribute="Property.logFileName">
+                  <propertyName xmi:type="utility:TranslatableString" key="Property.logFileName" bundleName="XMLValidator" pluginId="com.ibm.mq.supportpacs.XMLValidator"/>
+                </propertyDescriptor>
+              </propertyDescriptor>
+            </propertyDescriptor>
+          </propertyDescriptor>
+        </propertyDescriptor>
+      </propertyDescriptor>
+    </propertyOrganizer>
+  </eClassifiers>
+</ecore:EPackage>

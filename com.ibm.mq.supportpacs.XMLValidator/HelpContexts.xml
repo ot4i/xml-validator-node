@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<contexts>
+    <!--This is a generated file.-->
+    <!--User modifications to the values in this file will be preserved-->
+    <context id="XMLValidator" title="XMLValidator">
+        <description><b>XML Validator Node</b> (Supportpac IA9A)
+Validates an XML message against an XML schema</description>
+        <topic label="XML Validator" href="usage.html"/>
+    </context>
+    <context id="XMLValidator_Properties">
+		<description><b>Properties navigator</b>
+Displays the node properties. You configure the node by selecting the properties and setting their values. Mandatory properties are marked with an asterisk.</description>
+        <topic label="XML Validator" href="usage.html"/>
+    </context>
+    <context id="XMLValidator_Basic">
+		<description><b>Basic page</b>
+You can set schema locations to override those contained in messages being processed. Enable other options as desired</description>
+        <topic label="XML Validator" href="usage.html"/>
+    </context>
+    <context id="XMLValidator_Advanced">
+		<description><b>Advanced Page</b>
+Configure additional logging for the XMLValidator node</description>
+        <topic label="XML Validator" href="usage.html"/>
+    </context>
+</contexts>
