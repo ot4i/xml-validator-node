@@ -1,0 +1,18 @@
+LICENÈNÍ INFORMACE
+
+Ní¾e uvedené Programy jsou licencovány na základì následujících podmínek uvedených v dokumentu Licenèní informace, které doplòují licenèní podmínky pro Program, s nimi¾ døíve Zákazník a IBM vyjádøili souhlas Pokud Zákazník døíve nevyjádøil souhlas s úèinnými licenèními podmínkami pro Program, uplatní se licence Mezinárodní licenèní smlouva pro programy bez záruky (i125-5589-06).
+
+Název Programu (Èíslo Programu):
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+Na pou¾ívání Programu Dr¾itelem licence se vztahují následující standardní podmínky.
+
+Komponenty ve zdrojovém kódu a Vzorové materiály
+
+Program obsahuje komponenty ve formì zdrojového kódu ("Komponenty ve zdrojovém kódu"), nebo jiné materiály oznaèované jako Vzorové materiály, nebo obojí. Dr¾itel licence smí kopírovat a upravovat Zdrojové komponenty a Vzorové materiály pouze pro interní úèely, za pøedpokladu, ¾e toto u¾ívání splòuje limity licenèních práv podle této Smlouvy, av¹ak pod podmínkou, ¾e Dr¾itel licence nesmí pozmìòovat ani odstraòovat ¾ádné informace o autorských právech nebo právech k du¹evnímu vlastnictví, které jsou uvedeny ve Zdrojových komponentách èi Vzorových materiálech. IBM poskytuje tyto Komponenty ve zdrojovém kódu a Vzorové materiály bez závazku podpory a "JAK JSOU", BEZ ZÁRUKY JAKÉHOKOLIV DRUHU, VYJÁDØENÉ VÝSLOVNÌ ÈI VYPLÝVAJÍCÍ Z OKOLNOSTÍ, VÈETNÌ ZÁRUKY VLASTNICTVÍ, NEPORU©ENÍ PRÁV TØETÍCH OSOB A ZÁRUK A PODMÍNEK PRODEJNOSTI A VHODNOSTI PRO DANÝ ÚÈEL.
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+

@@ -1,0 +1,18 @@
+LICENCIJOS INFORMACIJA
+
+Toliau nurodytos Programos licencijuojamos pagal ¹ias Licencijos informacijos s±lygas, kurios papildo Programos licencijos s±lygas, dìl kuriù susitarì Klientas ir IBM. Jei Klientas anksèiau nìra sutikês su Programai taikomomis licencijos s±lygomis, taikoma Programù, kurioms neteikiama garantija, tarptautinì licencinì sutartis (i125-5589-06).
+
+Programos pavadinimas (Programos numeris):
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+©ios standartinìs s±lygos taikomos Licenciato Programos naudojimui.
+
+©altinio komponentai ir pavyzdinì med¾iaga
+
+Ç Program± yra çtrauktù komponentù i¹eitinio kodo forma ("©altinio komponentai") arba kita med¾iaga, apibrì¾ta kaip Pavyzdinì med¾iaga, arba abu ¹ie elementai. Licenciatas gali kopijuoti ir modifikuoti ©altinio komponentus ir Pavyzdinê med¾iag± tik naudoti viduje, nepa¾eisdamas ¹ios Sutarties licencijos teisiù; taèiau Licenciatas negali keisti ar naikinti jokios ©altinio komponentuose ir Pavyzdinìje med¾iagoje esanèios autoriaus teisiù informacijos ar prane¹imù. IBM pateikia ©altinio komponentus ir Pavyzdinê med¾iag± be palaikymo çsipareigojimo ir TOKI¡, KOKIA YRA, NESUTEIKIANT JOKIÙ AI©KIAI NURODYTÙ AR NENURODYTÙ GARANTIJÙ, ÇSKAITANT NUOSAVYBÌS TEISÌS, NEPA®EID®IAMUMO AR NEÇSIKI©IMO GARANTIJAS IR NENURODYTAS TINKAMUMO PREKIAUTI IR TAM TIKRAM TIKSLUI GARANTIJAS IR S¡LYGAS.
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+

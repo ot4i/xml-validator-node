@@ -1,0 +1,18 @@
+PODATKI O LICENCIRANJU
+
+Spodaj navedeni programi so licencirani na podlagi naslednjih doloèb in pogojev licenène informacije, ki veljajo poleg pogojev licence za program, s katerimi naroènik in IBM predhodno sogla¹ata. Èe naroènik predhodno ne sogla¹a s pogoji, ki veljajo za program, velja Mednarodna licenèna pogodba za programe brez garancije (i125-5589-06).
+
+Ime programa (©tevilka programa):
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+Za uporabo programa s strani imetnika licence veljajo naslednji standardni pogoji.
+
+Izvorne komponente in vzorèno gradivo
+
+Program vkljuèuje komponente v obliki izvorne kode ("izvorne komponente") ali drugo gradivo, ki je doloèeno kot vzorèno gradivo, ali oboje. Imetnik licence lahko prekopira in spremeni izvorne komponente ter vzorèno gradivo za notranjo uporabo, vendar samo znotraj omejitev licenènih pravic, ki izhajajo iz te pogodbe, in pod pogojem, da ne spremeni ali izbri¹e nobenih informacij o avtorskih pravicah ali obvestil, vsebovanih v izvornih komponentah ali vzorènem gradivu. IBM ponuja izvorne komponente in vzorèno gradivo brez obveznosti za podporo in "TAK©NO, KAKR©NO JE", BREZ JAMSTEV KAKR©NEKOLI VRSTE, PA NAJ BODO IZRECNA ALI ZAKONSKA, KAR VKLJUÈUJE TUDI JAMSTVO PRAVNEGA NASLOVA, NEKR©ENJA ALI NEOVIRANJA IN ZAKONSKA JAMSTVA IN POGOJE ZA PRODAJNOST IN PRIMERNOST ZA DOLOÈEN NAMEN.
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+

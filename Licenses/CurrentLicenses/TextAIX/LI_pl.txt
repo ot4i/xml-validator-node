@@ -1,0 +1,18 @@
+INFORMACJE LICENCYJNE
+
+Programy wymienione poni¿ej s± licencjonowane na podstawie przedstawionych poni¿ej warunków Informacji licencyjnych, które stanowi± uzupe³nienie warunków licencji na Program uzgodnionych uprzednio miêdzy Klientem a IBM. Je¶li Klient nie dysponuje warunkami licencji uzgodnionymi uprzednio z IBM w odniesieniu do Programu, zastosowanie maj± warunki licencji Miêdzynarodowa Umowa Licencyjna na Programy nieobjête Gwarancj± (i125-5589-06).
+
+Nazwa Programu (Numer Programu):
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+Poni¿sze standardowe warunki maj± zastosowanie do u¿ywania Programu przez Licencjobiorcê.
+
+Komponenty ¬ród³owe i Materia³y Przyk³adowe
+
+Program zawiera komponenty w postaci kodu ¼ród³owego (zwane dalej "Komponentami ¬ród³owymi") lub inne materia³y okre¶lone jako Materia³y Przyk³adowe, albo oba te elementy. Licencjobiorca mo¿e kopiowaæ i modyfikowaæ Komponenty ¬ród³owe i Materia³y Przyk³adowe jedynie na u¿ytek wewnêtrzny w granicach praw licencyjnych na mocy niniejszej Umowy, pod warunkiem jednak, ¿e Licencjobiorca nie bêdzie zmieniaæ ani usuwaæ ¿adnych informacji czy uwag o prawach autorskich zawartych w Komponentach ¬ród³owych lub Materia³ach Przyk³adowych. IBM dostarcza Komponenty ¬ród³owe i Materia³y Przyk³adowe bez zobowi±zania do wsparcia, W STANIE, W JAKIM SIÊ ZNAJDUJ¡ ("AS IS"), BEZ UDZIELANIA JAKICHKOLWIEK GWARANCJI (RÊKOJMIÊ RÓWNIE¯ WY£¡CZA SIÊ), WYRA¬NYCH LUB DOMNIEMANYCH, A W SZCZEGÓLNO¦CI GWARANCJI PRAWA W£ASNO¦CI, NIENARUSZANIA PRAW OSÓB TRZECICH ORAZ DOMNIEMANYCH GWARANCJI i WARUNKÓW PRZYDATNO¦CI HANDLOWEJ I PRZYDATNO¦CI DO OKRE¦LONEGO CELU.
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+

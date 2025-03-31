@@ -1,0 +1,18 @@
+LIZENZINFORMATION
+
+Für die Lizenzierung der nachstehend aufgelisteten Programme gelten zusätzlich zu den bereits zwischen dem Kunden und IBM vereinbarten Programmlizenzbedingungen die Bedingungen der folgenden Lizenzinformation. Falls der Kunde den für das Programm geltenden Lizenzbedingungen nicht bereits zugestimmt hat, kommen folgende Bedingungen zur Anwendung Internationale Nutzungsbedingungen für Programme ohne Gewährleistung (i125-5589-06).
+
+Programmname (Programmnummer):
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+Die folgenden Standardbedingungen gelten für die Programmnutzung durch den Lizenznehmer.
+
+Quellenkomponenten und Beispielmaterialien
+
+Das Programm enthält Komponenten in Form von Quellcode ("Quellenkomponenten") oder sonstige Materialien, die als Beispielmaterialien gekennzeichnet sind, oder beides. Der Lizenznehmer darf Quellenkomponenten und Beispielmaterialien nur zur internen Verwendung im Rahmen der Lizenzrechte dieser Vereinbarung kopieren und bearbeiten, sofern keine in den Quellenkomponenten oder Beispielmaterialien enthaltenen Copyrightvermerke oder Eigentumshinweise geändert oder gelöscht werden. IBM stellt die Quellenkomponenten und Beispielmaterialien ohne Verpflichtung zur Unterstützung, im gegenwärtigen Zustand (auf "as-is"-Basis) und ohne jegliche Gewährleistung (ausdrücklich oder stillschweigend) zur Verfügung, insbesondere ohne Gewährleistung in Bezug auf Rechtsmängel, die Freiheit von Rechten Dritter, das Recht auf Nichtbeeinträchtigung, die Handelsüblichkeit und die Verwendungsfähigkeit für einen bestimmten Zweck.
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+

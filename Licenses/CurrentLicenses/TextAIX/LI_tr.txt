@@ -1,0 +1,18 @@
+LÝSANS BÝLGÝLERÝ
+
+Aþaðýda listelenen programlar, daha önce Müþteri ve IBM tarafýndan kabul edilen Program lisansý koþullarýna ek olarak aþaðýdaki Lisans Bilgilerinin kayýt ve koþullarý kapsamýnda lisanslanýr. Müþteri, Programa iliþkin yürürlükte olan lisans koþullarýný daha önce kabul etmemiþse, Garanti Verilmeyen Programlar Ýçin Uluslararasý Lisans Sözleþmesi (i125-5589-06) geçerli olur.
+
+Program Adý (Program Numarasý):
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+Aþaðýdaki standart koþullar, Lisans Alan Tarafýn Programý kullanýmý için geçerlidir.
+
+Kaynak Bileþenler ve Örnek Malzemeler
+
+Program, kaynak kodu biçiminde bileþenler ("Kaynak Bileþenler") ve/veya Örnek Malzemeler olarak tanýmlanan baþka malzemeler içerir. Lisans Alan Taraf, Kaynak Bileþenleri ve Örnek Malzemeleri yalnýzca bunlarý kullanýmýnýn bu Sözleþme kapsamýndaki lisans haklarý tarafýndan çizilen sýnýrlar içindeki dahili kullaným için kopyalayabilir ve deðiþtirebilir; ancak, Kaynak Bileþenlerde ya da Örnek Malzemelerde yer alan herhangi bir telif hakký bilgisini veya bildirimi deðiþtirmeyecek veya silmeyecektir. IBM, Kaynak Bileþenleri ve Örnek Malzemeleri herhangi bir destek yükümlülüðü olmaksýzýn ve MÜLKÝYETE, HAK ÝHLALÝ YAPILMAYACAÐINA VEYA MÜDAHALEDE BULUNULMAYACAÐINA DAÝR GARANTÝLER ÝLE BÝR ÜRÜN VEYA HÝZMETÝN TÝCARÝ SATIÞ KOÞULLARINA VE BELÝRLÝ BÝR AMACA UYGUNLUÐA DAÝR ZIMNÝ GARANTÝLER VE KOÞULLAR DAHÝL OLMAK ÜZERE, AÇIK VEYA ZIMNÝ HÝÇBÝR GARANTÝ VERMEKSÝZÝN "OLDUÐU GÝBÝ" esasyla saðlar.
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+

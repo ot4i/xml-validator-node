@@ -1,0 +1,18 @@
+ÚæûâÅÃÅõ
+
+Ä¶ÇÄÆÛá£È¢ÄæÚæûâØæÏûËíÐêÅÂêØ IBM Ç¿Ð©ÇÑãôÄæÚæûâÛ¾à¡ÆÀ¡¢ËäËíÄ¶ÓÝÚæûâÅÃÅõÛ¾à¡Úæûâ¡¤Ó¼ÐêÅÂÇ¿Ð©ÞóÆÛá£È¢ÆÜÇÑãôÆíÕæÇ¶ÈôÚæûâÛ¾à¡¡¢Ð¬ÆÛá£È¢ïËÆî ÙÏëãÚæûâÇÙÒü - àÒÏñøýá£È¢ (i125-5589-06)¡¤
+
+á£È¢ÇØê¢ (á£È¢î¾æÀ)¡¨
+IBM WebSphere Message Broker XML Validator Plug-in Node SupportPac: IA9A (SupportPac-IA9A)
+
+Ä¶ÇÄíºäíÛ¾à¡ïËÆîÍõÝ·ÚæûâÄ©è×ÆÛá£È¢ÄæËðÆî¡¤
+
+ÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢Îì
+
+¡ÖÆÛá£È¢¡×ÄùÉÖÔÏÌîî£ÖªÈ¢ÄæÄ÷Çµ¡¾¡ÖÔÏÌîî£Ä÷Çµ¡×¡¿Å¯/ÍÐÌ§Åìç¥ÍüÒ³¡Öî¯ËóááÉ¢Îì¡×ÄæááÉ¢Îì¡¤ÍõÆÛÇÙÒüÝ½ÌùÄæÚæûâËðÆîÓîÌ±î¯ÞØÄù¡¢Ý·ÚæûâÄ©ã¯ÓîÙ×ÍõÄùÝåËðÆîÄæÆøÎûÈÔîïêûÅ¯ÔºÊÑ¡ÖÔÏÌîî£Ä÷Çµ¡×Å¯¡Öî¯ËóááÉ¢Îì¡×¡¢ÈþÝ·ÚæûâÄ©ÄâÚµÊÕÊÑÍÐÉ´Øæ¡ÖÔÏÌîî£Ä÷Çµ¡×ÍÐ¡Öî¯ËóááÉ¢Îì¡×ÍÔÉÖÇ¶ÈôááÉ¢ûâæñØ¹ÍÐÎÃãôËçâú¡¤IBM è×ÍõÔÏÌîî£Ä÷ÇµÅ¯î¯ËóááÉ¢ÎìÄæßÈËò¡¢ÄâÉÖÅÅßÎåøÙ­¡¢ËäÅè¡ÖÜ¢Îí¡×ßÈËò¡¢ÄâßÈËòÇ¶ÈôÍüÆüÍÐó¼ÆüÄæÏñøý¡¢ÅýÑÄÍÔÈ´ûâ¡£ÆÜÖÄÏëûâÍÐÆÜÖÄÒ¾ú½ÄæÏñøý¡¢ÅèÅ¯Æ«ÙÇÍÌêØÜÊÇÙÖÖÌùÆîÝäÄæó¼ÆüÏñøýÅ¯ðêÏñ¡¤
+
+
+L/N: L-ZMYN-FPUNL4
+D/N: L-ZMYN-FPUNL4
+P/N: L-ZMYN-FPUNL4
+
